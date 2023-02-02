@@ -42,7 +42,8 @@ def get_db() -> connection.MySQLConnection:
 
 
 def get_logger() -> logging.Logger:
-    '''A function that takes no arguments and returns a logging.Logger object'''
+    '''A function that takes no arguments and returns a logging.Logger
+    object'''
     logger = logging.getLogger("user_data")
     logger.setLevel(logging.INFO)
     logger.propagate = False
