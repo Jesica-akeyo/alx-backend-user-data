@@ -1,15 +1,6 @@
 0x08. User authentication service
 =================================
 
- Specializations - Web Stack programming -- Back-end
-
-* by Emmanuel Turlay, Staff Software Engineer at Cruise*
-
- Ongoing project - started 11-13-2020, must end by 11-19-2020 (in 2 days) - you're done with 0% of tasks.
-
- Checker was released at 11-16-2020 12:00 AM
-
- QA review fully automated.
 
  authentication python user authentication user authentication service
 
